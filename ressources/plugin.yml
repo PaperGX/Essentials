@@ -1,0 +1,15 @@
+name: Essentials
+author: PaperGX
+version: 1.0
+main: fr.papergx.essentials.Main
+commands:
+  gm:
+    description: Permet de changer de gamemode
+  gmc:
+    description: Permet de passer mode creatif
+  gms:
+    description: Permet de passer mode survie
+  gmsp:
+    description: Permet de passer mode spectateur
+  feed:
+    description: Regen sa nourriture
